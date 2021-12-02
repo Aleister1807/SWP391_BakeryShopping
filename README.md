@@ -12,10 +12,10 @@
 
 ### Team 5's members:
 #### [Nguyen Gia Bao](https://github.com/Aleister1807)
-#### [Truong Minh Tuan]()
-#### [Thanh]()
-#### [Duy]()
-#### [Quan]()
+#### [Truong Minh Tuan](https://github.com/Darksens555)
+#### [Van Nhat Thanh]()
+#### [Tran Bao Duy]()
+#### [Dang Minh Quan]()
 
 ### Contact us via:
 #### [Gmail](mailto:baongse150657@fpt.edu.vn)
